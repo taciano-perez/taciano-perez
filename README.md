@@ -1,4 +1,4 @@
-I’m Taciano Dreckmann Perez, a software engineer with 25+ years of experience. I live in Eindhoven, The Netherlands with my wife, daughter, two cats and a dog.
+I’m Taciano Dreckmann Perez, a software engineer with 25+ years of experience and a PhD in Computer Science. I live in Eindhoven, The Netherlands with my wife, daughter, two cats, and a dog.
 
 In this space, I share some of my personal and hobby projects. If you're interested in my professional activities, please check my [LinkedIn](https://www.linkedin.com/in/tacianoperez/) profile.
 
